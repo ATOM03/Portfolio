@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "341a3ca9d5503d545ca3a7bdba3cd8a2",
+    "revision": "e04ffc065d5422bb73bebf26e6cd7cf5",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "7bd7b23031b334b5c2ef",
-    "url": "/Portfolio/static/css/main.d895db87.chunk.css"
+    "revision": "eda51565c65d28f91fb6",
+    "url": "/Portfolio/static/css/main.667e2848.chunk.css"
   },
   {
     "revision": "23c06b59c07e84c4799d",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.3118b058.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bd7b23031b334b5c2ef",
+    "revision": "eda51565c65d28f91fb6",
     "url": "/Portfolio/static/js/main.496b077f.chunk.js"
   },
   {
     "revision": "97cf07384dbf9433c508",
     "url": "/Portfolio/static/js/runtime-main.feb05c9b.js"
+  },
+  {
+    "revision": "4f9dd74c92455a3f4d1164402e93522d",
+    "url": "/Portfolio/static/media/219818e19536e627-pulsating-edges-1080x2220-amoledbackgrounds.4f9dd74c.gif"
   },
   {
     "revision": "4e47f624ffeeec66be0c833f4bff5973",

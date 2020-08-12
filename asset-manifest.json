@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.86edce24.chunk.css",
-    "main.js": "/Portfolio/static/js/main.a3159084.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.a3159084.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.d895db87.chunk.css",
+    "main.js": "/Portfolio/static/js/main.496b077f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.496b077f.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.feb05c9b.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.feb05c9b.js.map",
     "static/js/2.3118b058.chunk.js": "/Portfolio/static/js/2.3118b058.chunk.js",
     "static/js/2.3118b058.chunk.js.map": "/Portfolio/static/js/2.3118b058.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.9944c04116d2abefb6f0da7ef45d0079.js": "/Portfolio/precache-manifest.9944c04116d2abefb6f0da7ef45d0079.js",
+    "precache-manifest.6da7d450e08bd5e43e8bcaa04cac796f.js": "/Portfolio/precache-manifest.6da7d450e08bd5e43e8bcaa04cac796f.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.86edce24.chunk.css.map": "/Portfolio/static/css/main.86edce24.chunk.css.map",
+    "static/css/main.d895db87.chunk.css.map": "/Portfolio/static/css/main.d895db87.chunk.css.map",
     "static/js/2.3118b058.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3118b058.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/Portfolio/static/media/549683-black-3d-background-1920x1200-samsung.84d041cc.jpg",
+    "static/media/Main.css": "/Portfolio/static/media/HD-Wallpapers-Gif-Download.4e47f624.gif",
     "static/media/Resume.pdf": "/Portfolio/static/media/Resume.1cf5d8be.pdf",
     "static/media/Screenshot from 2020-07-27 19-28-44.png": "/Portfolio/static/media/Screenshot from 2020-07-27 19-28-44.7240ec62.png",
     "static/media/Screenshot from 2020-07-27 20-59-48.png": "/Portfolio/static/media/Screenshot from 2020-07-27 20-59-48.33b67390.png"
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.feb05c9b.js",
     "static/js/2.3118b058.chunk.js",
-    "static/css/main.86edce24.chunk.css",
-    "static/js/main.a3159084.chunk.js"
+    "static/css/main.d895db87.chunk.css",
+    "static/js/main.496b077f.chunk.js"
   ]
 }

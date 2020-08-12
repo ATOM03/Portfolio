@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc63f4e2c74a41274e2cb21c005b82d0",
+    "revision": "341a3ca9d5503d545ca3a7bdba3cd8a2",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "68bbc042195ffaa990a2",
-    "url": "/Portfolio/static/css/main.86edce24.chunk.css"
+    "revision": "7bd7b23031b334b5c2ef",
+    "url": "/Portfolio/static/css/main.d895db87.chunk.css"
   },
   {
     "revision": "23c06b59c07e84c4799d",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.3118b058.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68bbc042195ffaa990a2",
-    "url": "/Portfolio/static/js/main.a3159084.chunk.js"
+    "revision": "7bd7b23031b334b5c2ef",
+    "url": "/Portfolio/static/js/main.496b077f.chunk.js"
   },
   {
     "revision": "97cf07384dbf9433c508",
     "url": "/Portfolio/static/js/runtime-main.feb05c9b.js"
   },
   {
-    "revision": "84d041cca7f409fc51ec497aba71cadc",
-    "url": "/Portfolio/static/media/549683-black-3d-background-1920x1200-samsung.84d041cc.jpg"
+    "revision": "4e47f624ffeeec66be0c833f4bff5973",
+    "url": "/Portfolio/static/media/HD-Wallpapers-Gif-Download.4e47f624.gif"
   },
   {
     "revision": "1cf5d8befbeb89f3a1b8562d22ce3cf0",

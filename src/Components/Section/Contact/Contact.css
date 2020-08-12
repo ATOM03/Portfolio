@@ -1,0 +1,30 @@
+#contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+.Contact {
+  display: flex;
+  flex-direction: column;
+}
+.social-media {
+  display: flex;
+}
+.social-media a {
+  font-size: 40px;
+  width: 100px;
+  text-align: center;
+}
+.details h4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 23px;
+}
+.details p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

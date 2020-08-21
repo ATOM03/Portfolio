@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("./549683-black-3d-background-1920x1200-samsung.jpg");
+  background-image: url("./HD-Wallpapers-Gif-Download.gif");
 
   /* background-color: black; */
   background-position: center;
@@ -12,18 +12,20 @@
 }
 .innerContainer {
   color: #fff;
+  font-family: "Recursive", sans-serif;
   font-size: 35px;
   font-weight: 600;
 }
 .innerContainer p {
   margin-bottom: 35px;
 }
+
 .innerContainer span {
-  color: #d35400;
+  color: #e74c3c;
 }
 .Resume-button {
   height: 40px;
-  background: none;
+  /* background: none; */
   /* border: 2px white outset; */
   display: flex;
   justify-content: center;
@@ -33,7 +35,8 @@
 .Resume-button a {
   color: #fff;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 18px;
+  text-transform: uppercase;
   font-weight: 600;
 }
 .Resume {
@@ -51,9 +54,11 @@
 }
 @media only screen and (max-width: 912px) {
   .innerContainer {
-    font-size: 25px;
+    font-size: 23px;
   }
   .outerContainer {
+    background-image: url("./219818e19536e627-pulsating-edges-1080x2220-amoledbackgrounds.gif");
+    background-position: center;
     background-size: cover;
   }
 }

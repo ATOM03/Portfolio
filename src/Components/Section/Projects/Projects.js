@@ -8,14 +8,21 @@ import covid from "./Screenshot from 2020-07-27 20-59-48.png";
 const Projects = () => {
   return (
     <div>
-      <h2>Project</h2>
+      <h1>Projects</h1>
       <div className="projects">
-        <a href="http://floating-depths-61749.herokuapp.com/">
-          <img src={chat} alt="Chat-Application"></img>
-        </a>
-        <a href="https://atom03.github.io/covid19-tracker/">
-          <img src={covid} alt="covid-19 Tracker"></img>
-        </a>
+        <div>
+          <a href="http://floating-depths-61749.herokuapp.com/" target="_blank">
+            <img src={chat} alt="Chat-Application"></img>
+          </a>
+          {/* <div className="overlap">
+            <div className="title">Chat-App</div>
+          </div> */}
+        </div>
+        <div>
+          <a href="https://atom03.github.io/covid19-tracker/" target="_blank">
+            <img src={covid} alt="covid-19 Tracker"></img>
+          </a>
+        </div>
         {/* <a href="/">Blog-Post</a>
         <a href="/">Instagram-Clone</a> */}
       </div>

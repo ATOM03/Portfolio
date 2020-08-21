@@ -8,7 +8,7 @@ class Main extends Component {
       <div className="outerContainer" id="main">
         <div className="innerContainer">
           <p>
-            Hello,I'm <span>Priyanshu</span>
+            Hi,I'm <span>Priyanshu</span>
             <br></br> I am a Full Stack Developer.
           </p>
           <div className="Resume">
@@ -16,7 +16,6 @@ class Main extends Component {
               className="Resume-button"
               onMouseMove={this.mouseMove}
               onMouseLeave={this.mouseleave}
-              variant="outline-primary"
             >
               {" "}
               <a href={Resume} download="My_Resume.pdf">
@@ -27,12 +26,11 @@ class Main extends Component {
               className="Resume-button work"
               onMouseMove={this.mouseMove}
               onMouseLeave={this.mouseleave}
-              variant="outline-primary"
             >
               {" "}
               <a href="/Portfolio/#project">
                 View My Work
-                <i class="fa fa-caret-square-o-right arrow"></i>
+                {/* <i class="fa fa-caret-square-o-right arrow"></i> */}
               </a>
             </Button>
           </div>

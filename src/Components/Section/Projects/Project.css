@@ -6,10 +6,12 @@
   margin-top: 20px;
 }
 .projects a img {
+  position: relative;
   width: 550px;
   height: 350px;
   margin-top: 30px;
 }
+
 @media only screen and (max-width: 912px) {
   .projects a img {
     width: 350px;

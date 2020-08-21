@@ -10,6 +10,8 @@
 }
 .social-media {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .social-media a {
   font-size: 40px;

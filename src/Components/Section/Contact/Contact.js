@@ -4,14 +4,23 @@ const Contact = () => {
   return (
     <div className="Contact">
       <div className="social-media">
-        <a href="https://www.facebook.com/priyanshu.jhaginiqa/">
+        <a href="https://www.facebook.com/priyanshu.jhaginiqa/" target="_blank">
           <i class="fab fa-facebook"></i>
         </a>
-        <a href="https://www.instagram.com/priyanshu__jhaginia/">
+        <a
+          href="https://www.instagram.com/priyanshu__jhaginia/"
+          target="_blank"
+        >
           <i class="fab fa-instagram"></i>
         </a>
-        <a href="https://www.linkedin.com/in/priyanshu-jhaginia-402583160">
+        <a
+          href="https://www.linkedin.com/in/priyanshu-jhaginia-402583160"
+          target="_blank"
+        >
           <i class="fab fa-linkedin-in"></i>
+        </a>
+        <a href="https://github.com/ATOM03" target="_blank">
+          <i class="fab fa-github"></i>
         </a>
       </div>
       <div className="details">

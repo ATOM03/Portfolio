@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0932cd71cacf1381bc74e75efb67cab2",
+    "revision": "76427d38c2c99c7049ec4e00356576d3",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "df99c0491967e1f22d8a",
-    "url": "/Portfolio/static/css/main.304c4339.chunk.css"
+    "revision": "3a2116faf965de2ec7ad",
+    "url": "/Portfolio/static/css/main.15fae6bf.chunk.css"
   },
   {
     "revision": "23c06b59c07e84c4799d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.3118b058.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df99c0491967e1f22d8a",
-    "url": "/Portfolio/static/js/main.f8e61ffe.chunk.js"
+    "revision": "3a2116faf965de2ec7ad",
+    "url": "/Portfolio/static/js/main.1c08ec7a.chunk.js"
   },
   {
     "revision": "97cf07384dbf9433c508",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/HD-Wallpapers-Gif-Download.4e47f624.gif"
   },
   {
-    "revision": "1cf5d8befbeb89f3a1b8562d22ce3cf0",
-    "url": "/Portfolio/static/media/Resume.1cf5d8be.pdf"
+    "revision": "13ba7c146ba1c8865c6aafcc6333ee1a",
+    "url": "/Portfolio/static/media/Resume.13ba7c14.pdf"
   },
   {
     "revision": "7240ec62273a3d8f2f253b7d1a8afe1e",

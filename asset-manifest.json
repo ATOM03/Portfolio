@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.15fae6bf.chunk.css",
-    "main.js": "/Portfolio/static/js/main.1c08ec7a.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.1c08ec7a.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.45e7d0cf.chunk.css",
+    "main.js": "/Portfolio/static/js/main.bf2113e5.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.bf2113e5.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.feb05c9b.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.feb05c9b.js.map",
-    "static/js/2.3118b058.chunk.js": "/Portfolio/static/js/2.3118b058.chunk.js",
-    "static/js/2.3118b058.chunk.js.map": "/Portfolio/static/js/2.3118b058.chunk.js.map",
+    "static/js/2.2f26663b.chunk.js": "/Portfolio/static/js/2.2f26663b.chunk.js",
+    "static/js/2.2f26663b.chunk.js.map": "/Portfolio/static/js/2.2f26663b.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.46f0a37f19c72ccca54b7f39b9f5c50b.js": "/Portfolio/precache-manifest.46f0a37f19c72ccca54b7f39b9f5c50b.js",
+    "precache-manifest.f0b3423579bbf074d3a23aac889f54f4.js": "/Portfolio/precache-manifest.f0b3423579bbf074d3a23aac889f54f4.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.15fae6bf.chunk.css.map": "/Portfolio/static/css/main.15fae6bf.chunk.css.map",
-    "static/js/2.3118b058.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3118b058.chunk.js.LICENSE.txt",
+    "static/css/main.45e7d0cf.chunk.css.map": "/Portfolio/static/css/main.45e7d0cf.chunk.css.map",
+    "static/js/2.2f26663b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.2f26663b.chunk.js.LICENSE.txt",
     "static/media/Main.css": "/Portfolio/static/media/HD-Wallpapers-Gif-Download.4e47f624.gif",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.13ba7c14.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.a9316d21.pdf",
     "static/media/Screenshot from 2020-07-27 19-28-44.png": "/Portfolio/static/media/Screenshot from 2020-07-27 19-28-44.7240ec62.png",
-    "static/media/Screenshot from 2020-07-27 20-59-48.png": "/Portfolio/static/media/Screenshot from 2020-07-27 20-59-48.33b67390.png"
+    "static/media/Screenshot from 2020-07-27 20-59-48.png": "/Portfolio/static/media/Screenshot from 2020-07-27 20-59-48.33b67390.png",
+    "static/media/TCS.webp": "/Portfolio/static/media/TCS.a6abde58.webp",
+    "static/media/edtyro.png": "/Portfolio/static/media/edtyro.3d78c822.png"
   },
   "entrypoints": [
     "static/js/runtime-main.feb05c9b.js",
-    "static/js/2.3118b058.chunk.js",
-    "static/css/main.15fae6bf.chunk.css",
-    "static/js/main.1c08ec7a.chunk.js"
+    "static/js/2.2f26663b.chunk.js",
+    "static/css/main.45e7d0cf.chunk.css",
+    "static/js/main.bf2113e5.chunk.js"
   ]
 }

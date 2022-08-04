@@ -4,6 +4,7 @@ import About from "./About/About";
 import Skills from "./Skills/Skills";
 import Projects from "./Projects/Projects";
 import Contact from "./Contact/Contact";
+import Work from "./WorkExperience/Work";
 class Section extends Component {
   mouseMove = () => {
     const cursor = document.querySelector(".cursor");
@@ -23,6 +24,9 @@ class Section extends Component {
       >
         <section id="About">
           <About />
+        </section>
+        <section id="work">
+          <Work />
         </section>
         <section id="skills">
           <Skills />

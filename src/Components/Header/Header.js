@@ -55,6 +55,11 @@ class Header extends Component {
               </a>
             </li>
             <li>
+              <a href="/Portfolio/#work" onClick={this.menuButton}>
+                Work Experience
+              </a>
+            </li>
+            <li>
               <a href="/Portfolio/#skills" onClick={this.menuButton}>
                 Skills
               </a>

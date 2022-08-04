@@ -9,8 +9,9 @@ class Main extends Component {
         <div className="innerContainer">
           <p>
             Hi,I'm <span>Priyanshu</span>
-            <br></br> I am a Full Stack Developer.
+            <br></br> I am a Web Developer.
           </p>
+
           <div className="Resume">
             <Button
               className="Resume-button"
@@ -18,7 +19,7 @@ class Main extends Component {
               onMouseLeave={this.mouseleave}
             >
               {" "}
-              <a href={Resume} download="My_Resume.pdf">
+              <a href={Resume} download="Priyanshu_Jhaginia_Resume.pdf">
                 My Resume{" "}
               </a>
             </Button>

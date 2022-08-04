@@ -26,7 +26,7 @@ const Contact = () => {
       <div className="details">
         <h4>PRIYANSHU JHAGINIA</h4>
         <p>© Priyanshu Jhaginia. All rights reserved.</p>
-        <p>January 2021</p>
+        <p>January 2022</p>
       </div>
     </div>
   );
